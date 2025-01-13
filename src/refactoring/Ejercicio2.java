@@ -4,7 +4,7 @@ public class Ejercicio2 {
 
 	 public static void main(String[] args) {
 	        char[] tabla = new char[20];
-	        int[] frecuencias = new int[5]; // Para las vocales: a, e, i, o, u
+	        int[] frecuencias = new int[5]; // Para las vocales: a, e, i, o, uaa
 	        char[] vocales = { 'a', 'e', 'i', 'o', 'u' };
 	        Random random = new Random();
 
